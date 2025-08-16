@@ -1,5 +1,5 @@
 Student Details:
-Name: Aditya D Shanbhag
+Name: Aditya Devidas Shanbhag
 Student ID: u3315922
 Student Email: u3315922@uni.canberra.edu.au
 

@@ -1,3 +1,8 @@
+Student Details:
+Name: Aditya D Shanbhag
+Student ID: u3315922
+Student Email: u3315922@uni.canberra.edu.au
+
 # 🐾 Automatic Pet Feeder System
 
 Welcome to the repository for the **Automatic Pet Feeder System**, a smart solution designed to automate pet feeding with built-in alerts and monitoring. This project walks through the complete development lifecycle—from problem identification to testing and refinement.
